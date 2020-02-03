@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> IL's lab01b</title>
+    <style>
+      h1{
+        color:rgb(112, 99, 112);
+        font-style: italic;
+        background-color: silver;
+        padding: 6px;
+      }
+      body{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      }
+      em{
+        color:red;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1> IL´s Lab01b </h1>
+      <br>
+      <p> I need you help! I want to plan a vacation, can you please help me? Is just 4 questions... </p> 
+      <br>
+        
+      <p style="background-color: lightseagreen; padding: 3px;
+          font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
+          Where do you recommend me to go? </p>
+      <p style="background-color:lightskyblue; padding: 3px;
+          font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
+          How can I get there?</p>
+      <p style="background-color:lightsteelblue; padding: 3px;
+          font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
+          What should I eat?</p>
+      <p style="background-color:mediumaquamarine; padding: 3px;
+          font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
+          For how many days should I stay there?</p>
+  <br><br>
+      <script>
+        var place, transport, eat,numdays, msg;
+    
+        
+        place = prompt('Hey there! I need you help. Where do you suggest me to take a vacation?');
+        transport = prompt('Great! Which is my best option to get there?');
+        eat = prompt('What do you commmend me to eat?');
+        numdays=prompt('How many days I shoud stay there?');
+
+     
+        console.log('Place to go on vacations: ' + place);
+        console.log('Transport: ' + transport);
+        console.log('Recommendation to eat: ' + eat);
+        console.log('Days to stay there: ' + numdays);
+
+        msg= "Say no more! I\'m on my way to " + place 
+        + " and I will be there for " + numdays 
+        + " days, eating " + eat 
+        + ". See ya! Got to run! I have a " + transport + " to take!!!"
+
+        console.log('Final message: ' + msg);
+
+        alert(msg);
+
+        msg= "Say no more! I\'m on my way to <em>" + place + "</em>"
+        + " and I will be there for <em>" + numdays + "</em>"
+        + " days, eating <em>" + eat + "</em>"
+        + ". See ya! Got to run! I have a <em>" + transport + "</em> to take!!!"
+
+
+        
+       document.write(msg);
+      </script>
+    </main>
+  </body>
+</html>
