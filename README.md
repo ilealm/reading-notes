@@ -9,7 +9,7 @@ This site shows my path thru Code 201 Fundations on Software Development. This a
 ## Readings Done
 
 |Reading No.|Date|Tittle|
-|-----------|----|------|
+| :-------: |----|------|
 |1|TDD|**TDD**|
 |2|TDD|**TDD**|
 |3|TDD|**TDD**|
