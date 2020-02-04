@@ -10,8 +10,8 @@ This site shows my path thru Code 201 Fundations on Software Development. This a
 
 |Reading No.|Date|Tittle|
 | :-------: |----|------|
-|1| February 3rd, 2020| [Read 01 HTML and Scripts] (class-01.md) |
-|2|TDD|**TDD**|
+|1| February 3rd, 2020| [Read 01 HTML and Scripts](class-01.md) |
+|2| February 3rd, 2020| [Read 02 Text, CSS and Java](class-02.md)|
 |3|TDD|**TDD**|
 |4|TDD|**TDD**|
 |5|TDD|**TDD**|
@@ -26,6 +26,6 @@ This site shows my path thru Code 201 Fundations on Software Development. This a
 |14|TDD|**TDD**|
 |15|TDD|**TDD**|
 
-[test](class-02.md)
+
 
 ##### _Updated Feb, 3rd 2020_
