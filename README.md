@@ -26,5 +26,6 @@ This site shows my path thru Code 201 Fundations on Software Development. This a
 |14|TDD|**TDD**|
 |15|TDD|**TDD**|
 
+[test](class-02.md)
 
 ##### _Updated Feb, 3rd 2020_
