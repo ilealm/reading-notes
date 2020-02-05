@@ -9,6 +9,8 @@
     * Another part of the same page.
 * Links can start-up user's e-mail program.
 
+# this my test after conflict
+
 ### Link Syntax:
 
 &lt;a href="path"&gt;Path Description&lt;a&gt;
