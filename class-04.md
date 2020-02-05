@@ -5,6 +5,10 @@
 ### _Links_
  * Links allow users to move from one page to:
     * Another page in the same window.
-    * Another page in a different window
+    * Another page in a different window/browser.
+    * Another part of the same page.
+* Links can start-up user's e-mail program.
 
-# testing gitub
+### Link Syntax:
+
+&lt;a href="path"&gt;Path Description&lt;a&gt;
