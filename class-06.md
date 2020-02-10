@@ -1,4 +1,4 @@
-# Read 05 Undertanding the problem, object literals, DOM
+# Read 06 Undertanding the problem, object literals, DOM
 
 ### February 9th, 2020
 
