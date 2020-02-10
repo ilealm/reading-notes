@@ -15,7 +15,7 @@ This site shows my path thru Code 201 Fundations on Software Development. This a
 |3|February 4th, 2020| [Read 03 List, boxes, If and While](class-03.md)|
 |4| February 5th, 2020 |[Read 04 Links, Layout, Functions, Methods, and Objects](class-04.md)|
 |5|February 6th, 2020 | [Read 05 Images, text and Color](class-05.md) |  
-|6|TDD|**TDD**|
+|6|February 9th, 2020 |[Read 06 Undertanding the problem, Objects literals, DOM](class-06.md) |
 |7|TDD|**TDD**|
 |8|TDD|**TDD**|
 |9|TDD|**TDD**|
