@@ -16,7 +16,7 @@ This site shows my path thru Code 201 Fundations on Software Development. This a
 |4| February 5th, 2020 |[Read 04 Links, Layout, Functions, Methods, and Objects](class-04.md)|
 |5|February 6th, 2020 | [Read 05 Images, text and Color](class-05.md) |  
 |6|February 9th, 2020 |[Read 06 Undertanding the problem, Objects literals, DOM](class-06.md) |
-|7|TDD|**TDD**|
+|7|February 10th, 2020|  [Read Tables 07 ](class-07.md) |
 |8|TDD|**TDD**|
 |9|TDD|**TDD**|
 |10|TDD|**TDD**|
