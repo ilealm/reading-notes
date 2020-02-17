@@ -19,8 +19,8 @@ This site shows my path thru Code 201 Fundations on Software Development. This a
 |7|February 10th, 2020|  [Read 07 Tables ](class-07.md) |
 |8|February 11th, 2020|  [Read 08 HTML and CSS ](class-08.md) |
 |9|February 12th, 2020|  [Read 09 Forms, List, Tables and Forms ](class-09.md) |
-|10|TDD| [Read 10 Error Handling & Debuggings ](class-10.md) ||
-|11|TDD|**TDD**|
+|10|February 13th, 2020| [Read 10 Error Handling & Debuggings ](class-10.md) ||
+|11| February 16th, 2020 |  Read 11 Images and practical information ](class-11.md) |
 |12|TDD|**TDD**|
 |13|TDD|**TDD**|
 |14|TDD|**TDD**|
