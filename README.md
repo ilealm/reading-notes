@@ -24,7 +24,7 @@ This site shows my path thru Code 201 Fundations on Software Development. This a
 |12| February 17th, 2020 | [Read 12 Assorted bits of documentation ](class-12.md) |
 |13| February 18th, 2020  | [Read 13 The Past, Present, and Future of Local Storage for Web Applications ](class-13.md) |
 |14| February 19th, 2020  |   [Read 14 Read: 14a - CSS Transforms, Transitions, and Animations ](class-14.md)  |
-|15|February 19th, 2020 | [ Read 15 What Google Learned From Its Quest to Build the Perfect Team](class-15.md)|
+|15|February 19th, 2020| [ Read 15 What Google Learned From Its Quest to Build the Perfect Team](class-15.md)|
 
 
 ##### _Updated Feb, 19th 2020_
